@@ -5,7 +5,7 @@
 
 
 ## Visitantes
-- [ ] Cadastro inicial parcial de usuário
+- [x] Cadastro inicial parcial de usuário
 - [ ] Cronograma
 - [ ] Filtros do cronograma
 
